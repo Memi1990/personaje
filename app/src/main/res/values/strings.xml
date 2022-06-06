@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personaje</string>
+    <string name="caracteristicas">Elige una característica</string>
+    <string name="add">+ AÑADIR</string>
+    <string name="send">CREAR PERSONAJE</string>
+    <string name="sample">Escribe aquí</string>
+</resources>
